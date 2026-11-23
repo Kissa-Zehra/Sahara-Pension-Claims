@@ -1,5 +1,7 @@
 # Sahara: Survivor Pension Claims (Prototype)
 
+> **Hackathon project.** Built by Kissa Zehra together with my teammate [Aiza Gazyani](https://github.com/Aiza166) at the Coder's Cup '26 AI Hackathon (ACM, FAST-NUCES Karachi, 20-22 Nov 2026). This is my copy with the full commit history; the original repository is [Aiza166/AI-Hackathon](https://github.com/Aiza166/AI-Hackathon).
+
 > **PROTOTYPE ONLY. Not an official government service.**
 > Every identity, family record, death record, pension and payment in this project is **simulated (mock)**. No real personal data is used anywhere.
 
@@ -126,6 +128,6 @@ Without the Azure keys the app still runs: Tesseract reads documents, the phone 
 
 ## Team working rules
 
-- All code in this repo was written **during the hackathon**. No code, models or data files were copied from any earlier project (see [PRIOR_WORK.md](PRIOR_WORK.md)).
+- All code in this repo was written **during the hackathon**. No code, models or data files were copied from any earlier project.
 - Mock data only. Secrets live in `.env` (git-ignored) and on Railway, never in git.
 - Branch per task, pull request into `main` with CI green, conventional commit messages.
